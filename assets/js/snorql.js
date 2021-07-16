@@ -1,11 +1,11 @@
 
-var _endpoint = "https://aopwiki.rdf.bigcat-bioinformatics.org/sparql";
-var _examples_repo = "https://github.com/marvinm2/AOPWikiSNORQL";
+var _endpoint = "https://nanosafety.rdf.bigcat-bioinformatics.org/sparql";
+var _examples_repo = "https://github.com/h2020-riskgone/SPARQLQueries";
 var _defaultGraph = "";
 var _namespaces = snorql_namespacePrefixes;
 
-var _poweredByLink = 'https://github.com/marvinm2/aopwiki-snorql-extended';
-var _poweredByLabel = 'AOP-Wiki SNORQL';
+var _poweredByLink = 'https://github.com/h2020-riskgone/nanosafety-snorql-extended';
+var _poweredByLabel = 'NanoSafety SNORQL';
 var _showLiteralType = false;
 
 function setCookie(cname, cvalue){

@@ -10,7 +10,7 @@ jQuery(document).ready(function() {
 
             $('#cookieModal button.btn-reset').on('click', function (e) {
                 setCookie("cookieDecision", "reject");
-                window.location.href = "https://aopwiki.rdf.bigcat-bioinformatics.org/cookies.html";
+                window.location.href = "https://nanosafety.rdf.bigcat-bioinformatics.org/cookies.html";
             });
 
             $("#cookieModal button.btn-run").on('click', function(){
@@ -145,7 +145,7 @@ jQuery(document).ready(function() {
 
             var url = window.location.href.split('?')[0] + query;
 
-            url = "https://aopwiki.rdf.bigcat-bioinformatics.org/"+query;
+            url = "https://nanosafety.rdf.bigcat-bioinformatics.org/"+query;
             var accessToken = "b0021fe4839aefbc4e7967b3578443d9ea6e89bf";
 
             var params = {

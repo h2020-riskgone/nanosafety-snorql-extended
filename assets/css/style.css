@@ -6,8 +6,8 @@
 
 footer{
     height: 70px;
-    background-color: #343a40;
-    color: white;
+    background-color: #FBE6E1;
+    color: #6E6F71;
 text-align: center;
 }
 
@@ -120,7 +120,7 @@ footer p{
 }
 
 .navbar-default {
-    background-color: #343a40;
+    background-color: #6E6F71;
 }
 
 .row{
