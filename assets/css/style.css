@@ -33,73 +33,73 @@ a:active {
 
 .btn-run {
     color: #343a40;
-    background-color: #B6D7A8;
+    background-color: #9FC2BB;
     border-color: #333;
 font-weight: bold;
 }
 .btn-run:hover {
     color: #fff;
-    background-color:darkgreen;
+    background-color:#9FC2BB;
     border-color: #333;
 font-weight: bold;
 }
 .btn-reset {
     color: #343a40;
-    background-color: #EA9999;
+    background-color: #F27360;
     border-color: #333;
 font-weight: bold;
 }
 .btn-reset:hover {
     color: #fff;
-    background-color:darkred;
+    background-color:#F27360;
     border-color: #333;
 font-weight: bold;
 }
 .btn-export {
     color: #343a40;
-    background-color: #FFE599;
+    background-color: #FBE6E1;
     border-color: #333;
 font-weight: bold;
 }
 .btn-export:hover {
     color: #fff;
-    background-color:darkgoldenrod;
+    background-color:#FBE6E1;
     border-color: #333;
 font-weight: bold;
 }
 .btn-primary {
     color: #343a40;
-    background-color: #FFE599;
+    background-color: #FBE6E1;
     border-color: #333;
 font-weight: bold;
 }
 .btn-primary:hover {
     color: #fff;
-    background-color:darkgoldenrod;
+    background-color:#FBE6E1;
     border-color: #333;
 font-weight: bold;
 }
 .btn-permalink {
     color: #343a40;
-    background-color: #A2DBFF;
+    background-color: #9AAABA;
     border-color: #333;
 font-weight: bold;
 }
 .btn-permalink:hover {
     color: #fff;
-    background-color: #4B7A97;
+    background-color: #9AAABA;
     border-color: #333;
 font-weight: bold;
 }
 .btn-fullscreen {
     color: #343a40;
-    background-color: #e7e7e7;
+    background-color: #BCBDC1;
     border-color: #333;
 font-weight: bold;
 }
 .btn-fullscreen:hover {
     color: #fff;
-    background-color: #a0a0a0;
+    background-color: #BCBDC1;
     border-color: #333;
 font-weight: bold;
 }
@@ -120,7 +120,7 @@ footer p{
 }
 
 .navbar-default {
-    background-color: #6E6F71;
+    background-color: #FBE6E1;
 }
 
 .row{
