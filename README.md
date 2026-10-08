@@ -1,3 +1,7 @@
+> This repository is archived. The NanoSafety RDF Explorer at
+> https://nanosafety.rdf.bigcat-bioinformatics.org/ is now built from
+> [tgx-um/nanosafety-snorql-ui](https://github.com/tgx-um/nanosafety-snorql-ui).
+
 ## Snorql - Extended Edition
 
 Simple SPARQL explorer based on the original idea of [kurtjx/SNORQL](https://github.com/kurtjx/SNORQL) and adapted from the fork [eccenca/SNORQL](https://github.com/eccenca/SNORQL) 
